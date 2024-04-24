@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/791425704.svg)](https://zenodo.org/doi/10.5281/zenodo.11061969)
+
 # random-geometric-network-netlogo
 Provides code to produce a random geometric network in the NetLogo world. In particular, it solves the problem of getting the right radius to realize a certain average degree for a given number of agents.
 
